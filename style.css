@@ -1,5 +1,5 @@
 body {
-    background: #eeefed;
+    background: #a2ab99;
 }
 
 a {
@@ -27,8 +27,11 @@ p {
     font-weight: 300;
     text-align: center;
     font-size: 18px;
-    color: #676767;
+    color: black;
     margin-bottom: 40px;
+    border-color: black, solid, 3px;
+    background-color: #da855a;
+    border-radius: 50px;
 }
 
 .custom-btn {
