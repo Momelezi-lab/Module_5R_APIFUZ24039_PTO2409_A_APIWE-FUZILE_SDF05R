@@ -138,7 +138,7 @@ p {
     font-weight: bold;
     text-align: center;
     position: relative;
-    background: linear-gradient(90deg, rgb(0, 255, 0), rgb(0, 0, 255));;
+    background: linear-gradient(180deg, rgb(0, 255, 0), rgb(0, 0, 255));;
     border: 1px solid #FD8B51;
     transition: color 0.2s linear, box-shadow 0.3s, linear;
     background-color: 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
